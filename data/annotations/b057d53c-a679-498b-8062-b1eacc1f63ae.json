@@ -1,5 +1,321 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 14,
+      "end_time": null,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \"bars\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"SWT\""
+        }
+      ],
+      "uuid": "6a779ede-fa5f-421f-89a3-5f63b9db2a14"
+    },
+    {
+      "start_time": 73,
+      "end_time": null,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \"slate\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"SWT\""
+        }
+      ],
+      "uuid": "10e07fc3-2fb3-454a-b0b3-498913859b0a"
+    },
+    {
+      "start_time": 94,
+      "end_time": null,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \"other_opening\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"SWT\""
+        }
+      ],
+      "uuid": "82111f0e-d1e2-41a7-abf3-bd169cb73640"
+    },
+    {
+      "start_time": 136,
+      "end_time": null,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \"other_opening\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"SWT\""
+        }
+      ],
+      "uuid": "928064d0-5653-4e55-b31a-a711782246c9"
+    },
+    {
+      "start_time": 152,
+      "end_time": null,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \"chyron\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"SWT\""
+        }
+      ],
+      "uuid": "2f268714-7b23-4a8a-bd16-3a7e34d8dd87"
+    },
+    {
+      "start_time": 410,
+      "end_time": null,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \"other_text\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"SWT\""
+        }
+      ],
+      "uuid": "c6cb7c46-9dd3-45bc-83b8-9d62d75a1228"
+    },
+    {
+      "start_time": 456,
+      "end_time": null,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \"chyron\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"SWT\""
+        }
+      ],
+      "uuid": "50b21f09-2f6f-4ff8-bc92-6ded4a425d8a"
+    },
+    {
+      "start_time": 558,
+      "end_time": null,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \"chyron\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"SWT\""
+        }
+      ],
+      "uuid": "384bc7e6-5e60-4f1e-86f1-2456ce570443"
+    },
+    {
+      "start_time": 683,
+      "end_time": null,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \"chyron\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"SWT\""
+        }
+      ],
+      "uuid": "6532daf9-86d9-4b22-a995-a7fd0a1bb805"
+    },
+    {
+      "start_time": 801,
+      "end_time": null,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \"chyron\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"SWT\""
+        }
+      ],
+      "uuid": "bcaaf2f7-3681-4fbd-bcb4-96067f3666f1"
+    },
+    {
+      "start_time": 988,
+      "end_time": null,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \"chyron\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"SWT\""
+        }
+      ],
+      "uuid": "388eed98-df1b-4794-82af-6d36c370aea8"
+    },
+    {
+      "start_time": 1088,
+      "end_time": null,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \"chyron\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"SWT\""
+        }
+      ],
+      "uuid": "13e8c340-6e82-40b3-9f22-6cc3e76dab57"
+    },
+    {
+      "start_time": 1371,
+      "end_time": null,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \"chyron\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"SWT\""
+        }
+      ],
+      "uuid": "a9efa47f-9e00-4670-aa04-8ea053f0ef50"
+    },
+    {
+      "start_time": 1547,
+      "end_time": null,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \"other_opening\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"SWT\""
+        }
+      ],
+      "uuid": "afc8d214-94d3-4363-a47d-31923ce4d00c"
+    },
+    {
+      "start_time": 1569,
+      "end_time": null,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " \"credit\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "\"SWT\""
+        }
+      ],
+      "uuid": "02d0670e-71b7-4e89-8bd9-2c698e5eeba0"
+    }
+  ],
   "set": "Default",
   "event_id": "490c4867-709a-4bca-9227-de1ed18f5cb5",
   "source_id": "e579b0b1-9b3d-4d3f-beeb-f0c26ff875f6"
