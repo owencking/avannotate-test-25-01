@@ -17,6 +17,14 @@
           "text": "New Mexico In Focus \n1998-11-27"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Annotated scenes with text"
+        }
+      ]
     }
   ],
   "citation": "https://americanarchive.org/catalog/cpb-aacip-b45eb62bd60",
@@ -24,6 +32,6 @@
   "label": "Microcredit",
   "created_at": "2025-05-02T15:59:20.410Z",
   "created_by": "owencking",
-  "updated_at": "2025-05-02T15:59:20.411Z",
+  "updated_at": "2025-05-02T17:47:02.124Z",
   "updated_by": "owencking"
 }
