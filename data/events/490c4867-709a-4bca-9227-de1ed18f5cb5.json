@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "e579b0b1-9b3d-4d3f-beeb-f0c26ff875f6": {
+      "label": "cpb-aacip-b45eb62bd60",
+      "is_offline": false,
+      "file_url": "https://aapb-avannotate.s3.us-east-1.amazonaws.com/av/cpb-aacip-b45eb62bd60.mp4",
+      "duration": 1629,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "New Mexico In Focus \n1998-11-27"
+        }
+      ]
+    }
+  ],
+  "citation": "https://americanarchive.org/catalog/cpb-aacip-b45eb62bd60",
+  "item_type": "Video",
+  "label": "Microcredit",
+  "created_at": "2025-05-02T15:59:20.410Z",
+  "created_by": "owencking",
+  "updated_at": "2025-05-02T15:59:20.411Z",
+  "updated_by": "owencking"
+}

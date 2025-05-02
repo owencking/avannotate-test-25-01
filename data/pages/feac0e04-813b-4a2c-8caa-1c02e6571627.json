@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-05-02T15:59:20.582Z",
+  "created_by": "owencking",
+  "title": "Microcredit",
+  "slug": "microcredit",
+  "updated_at": "2025-05-02T15:59:20.582Z",
+  "updated_by": "owencking",
+  "parent": "128824d5-7ee5-4c44-84fb-04e07901e77f",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "490c4867-709a-4bca-9227-de1ed18f5cb5"
+  }
+}
